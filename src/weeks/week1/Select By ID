@@ -1,7 +1,11 @@
+KOD:
+
 SELECT * 
 FROM CITY 
 WHERE ID = 1661;
 
 
-Output:
+
+OUTPUT:
+
 1661 Sayama JPN Saitama 162472
